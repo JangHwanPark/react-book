@@ -7,10 +7,8 @@
   - [props 로 부모 컴포넌트 데이터 받아쓰기](./ReactBasic/props.md)
 - [Ch.3 리액트 심화](./ReactIntermediate/README.md)
 - [Ch.4 Context API](./ReactContextAPI/README.md)
-
-[//]: # (- [Ch.5 리액트 라우터&#40;React Router&#41;]&#40;./ReactRouter/README.md&#41;)
-
-[//]: # (- [Ch.6 리액트 쿼리&#40;React Query&#41;]&#40;./ReactQuery/README.md&#41;)
+- [Ch.5 리액트 라우터(React Router)](./ReactRouter/README.md)
+- [Ch.6 리액트 쿼리(React Query)](./ReactQuery/README.md)
 
 [//]: # (- [Ch.7 리덕스&#40;Redux&#41;]&#40;./Redux/README.md&#41;)
 
