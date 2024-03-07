@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../react-state-practice/.idea/React_State_Practice.iml" filepath="$PROJECT_DIR$/../react-state-practice/.idea/React_State_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-basic/.idea/react-basic.iml" filepath="$PROJECT_DIR$/../react-basic/.idea/react-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/react-book.iml" filepath="$PROJECT_DIR$/.idea/react-book.iml" />
     </modules>
   </component>
