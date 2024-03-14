@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="React_State_Practice" />
     <orderEntry type="module" module-name="react-basic" />
+    <orderEntry type="module" module-name="react-shopping" />
   </component>
 </module>
